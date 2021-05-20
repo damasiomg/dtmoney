@@ -3,7 +3,7 @@
 ## What's it?
 This is a financial app project to manage your budget. This was built with ReactJS, TypeScript and MirageJS.
 
-## Main concepts?
+## Main concepts
 Immutability, states, hooks, contexts, styled components and componentization.
 
 
