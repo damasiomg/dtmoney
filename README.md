@@ -7,7 +7,7 @@ This is a financial app project to manage your budget. This was built with React
 Immutability, states, hooks, contexts, styled components and componentization.
 
 
-## Sample view
+## Sample view:
 ![](dtmoney.png)
 
 ## Requirements:
