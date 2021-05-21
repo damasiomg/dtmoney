@@ -1,4 +1,4 @@
-# GitHub Explorer
+# dt money
 
 ## What's it?
 This is a financial app project to manage your budget. This was built with ReactJS, TypeScript and MirageJS.
